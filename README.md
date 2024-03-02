@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Backend Development<br>🌱 I’m currently learning WebRTC<br>👯 I’m looking to collaborate on Web Development Projects<br>💬 Ask me about DSA, CP and Web Development<br>📫 How to reach me: harshbardolia02@gmail.com</p>
+<p align="left">🔭 I’m currently working on Backend Development<br>🌱 I’m currently learning GoLang<br>👯 I’m looking to collaborate on Web Development Projects<br>💬 Ask me about DSA, CP and Web Development<br>📫 How to reach me: harshbardolia02@gmail.com</p>
 
 ###
 
