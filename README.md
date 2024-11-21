@@ -1,21 +1,34 @@
 <h1 align="center">Harsh Bardolia</h1>
 
-###
-
-<p align="center">Software Developer | Competitive Programmer</p>
-
-###
+<image src="./TimeFlies.png">
 
 <h2 align="left">About me</h2>
 
+<ul>
+  <li>Software Engineer at Cisco</li>
+  <li>I am an enthusiastic and motivated Computer Science graduate with great intuitive problem‑solving and time management skills.</li>
+  <li>I actively participated in programming competitions on various platforms, which further strengthened my problem-solving and time-management skills.</li>
+  <li>Developing projects to improve Golang proficiency.</li>
+</ul>
+
 ###
 
-<p align="left">🔭 I’m currently working on Backend Development<br>🌱 I’m currently learning GoLang<br>👯 I’m looking to collaborate on Web Development Projects<br>💬 Ask me about DSA, CP and Web Development<br>📫 How to reach me: harshbardolia02@gmail.com</p>
+<h2 align="left">Connect with me</h2>
 
-###
+<ul>
+  <li><a href="https://codeforces.com/profile/harsh-bardolia" target="blank">Codeforces</a></li>
+  <li><a href="https://www.leetcode.com/harshbardolia" target="blank">Leetcode</a></li>
+  <li><a href="https://www.codechef.com/users/harshbardolia" target="blank">Codechef</a></li>
+  <li><a href="https://atcoder.jp/users/harshbardolia" target="blank">Atcoder</a></li>
+  <li><a href="https://www.hackerearth.com/@harshbardolia02/" target="blank">Hackerearth</a></li>
+  <li><a href="https://www.hackerrank.com/harshbardolia02" target="blank">Hackerrank</a></li>
+  <li><a href="https://x.com/harshbardolia01" target="blank">X (Twitter)</a></li>
+  <li><a href="https://linkedin.com/in/harsh-bardolia-0a0407217" target="blank">Linkedin</a></li>
+  <li><a href="https://instagram.com/harshbardolia01" target="blank">Instagram</a></li>
+  <li><a href="mailto:harshbardolia02@gmail.com" target="blank">Mail</a></li>
+</ul>
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
+<!-- <p align="left">
 <a href="https://twitter.com/harshbardolia01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshbardolia01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harsh-bardolia-0a0407217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-bardolia-0a0407217" height="30" width="40" /></a>
 <a href="https://instagram.com/harshbardolia01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshbardolia01" height="30" width="40" /></a>
@@ -25,9 +38,9 @@
 <a href="https://www.leetcode.com/harshbardolia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshbardolia" height="30" width="40" /></a>
 </p>
 
-###
+### -->
 
-<h2 align="left">Languages and Tools</h2>
+<!-- <h2 align="left">Languages and Tools</h2>
 
 ###
 
@@ -81,7 +94,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshBardolia01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshbardolia01&layout=compact&card_width=500&theme=dracula&hide_border=false&order=2" alt="harshbardolia01" />
-</div>
+</div> -->
 
 ###
 
